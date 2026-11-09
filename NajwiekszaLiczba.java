@@ -1,6 +1,6 @@
 public class NajwiekszaLiczba {
     public static void main(String[] args) {
-        int[] liczby = {12, 45, 7, 89, 23, 56, 3};
+        int[] liczby = {13, 45, 7, 89, 23, 56, 3};
 
         int max = liczby[0];
 
